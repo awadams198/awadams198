@@ -52,9 +52,11 @@
 
 <!-- Keep these for later use -->
 
- <a href=https://awadams198.github.io/portfolio.me/ target="_blank">
+<!-- 
+<a href=https://awadams198.github.io/portfolio.me/ target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
-</a> 
+</a>
+-->
 
 
 <!--
@@ -66,8 +68,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about App Academy
-- 📫 How to reach me: awadams198@gmail.com
-- 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 

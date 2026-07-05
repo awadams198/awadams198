@@ -2,9 +2,11 @@
 
 
 ## My Github at a Glance
+<!--
 <a href="https://github.com/awadams198/awadams198">
 <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=dominisam98&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
+-->
 
 <a href="https://github.com/awadams198/awadams198">
 <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominisam98&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=Lines%20of%20Code%20Written&exclude_repo=curriculum,github-slideshow,unified-setup,git-training&hide=mako, shell"/>
